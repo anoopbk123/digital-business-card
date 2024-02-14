@@ -1,0 +1,6 @@
+.card-container {
+  width: min(317px, 100vw);
+  margin: auto;
+  margin-bottom: 2rem;
+  padding: 0;
+}

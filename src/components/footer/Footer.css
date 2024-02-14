@@ -1,0 +1,10 @@
+.footer {
+  background-color: #161619;
+  color: #918e9b;
+  border-radius: 0px 0px 10px 10px;
+  padding: 19px 36px;
+}
+.footer-social-icon {
+  font-size: 25px;
+  color: #918e9b;
+}

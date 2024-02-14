@@ -1,0 +1,30 @@
+.main-area {
+  padding: 16px 36px;
+  background: #1a1b21;
+  width: 100%;
+  margin: 0;
+  color: #ffffff;
+}
+.profile-name {
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+.occupation {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #f3bf99;
+}
+.button-container {
+  margin-top: 9px;
+  border: none;
+}
+.d-block {
+  display: block;
+}
