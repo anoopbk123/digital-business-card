@@ -4,7 +4,7 @@ import SocialButton from "../social-button/SocialButton";
 import icons from "../../assets/icons";
 import Sections from "../section/Sections";
 import sectionData from "../../assets/data/sectionData.js";
-import resume from "../../assets/Anoop_B_K Resume.pdf";
+import resume from "../../assets/Anoop_B_K_MERN_STACK_DEVELOPER Resume.pdf";
 
 export default function MainArea() {
   return (
